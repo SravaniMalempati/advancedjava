@@ -1,6 +1,9 @@
 
 import java.sql.Driver;
+class JDBCHi
+{
 
+}
 
 class JDBCHelloWorld
 {
